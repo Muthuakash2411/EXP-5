@@ -52,9 +52,17 @@ LOAD REGULATION:
 | 5    | 500                | 5.20                |
 | 6    | 600                | 5.21                |
 
-REGULATION CHARACTERISTICS:
+CIRCUIT DIAGRAM:
 
-V-I & REGULATION CHARACTERISTICS:
+LINE REGULATION:
+
+<img width="1268" height="714" alt="Screenshot 2025-12-10 152025" src="https://github.com/user-attachments/assets/9ee43637-8708-4be9-bcf7-7ac96633e678" />
+
+
+LOAD REGULATION:
+
+<img width="1347" height="709" alt="Screenshot 2025-12-10 152725" src="https://github.com/user-attachments/assets/fc096d5f-9cad-466f-abbe-e61ca71ef81d" />
+
 
 PRECAUTIONS:
 
@@ -62,5 +70,6 @@ PRECAUTIONS:
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
+
 RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
