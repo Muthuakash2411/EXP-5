@@ -43,14 +43,14 @@ LINE REGULATION:
 
 LOAD REGULATION:
 
-| S.No | Load Resistance&Omega; | Output Voltage (V) |
+| S.No | Load Resistance(&Omega;) | Output Voltage (V) |
 |------|--------------------|---------------------|
-| 1    | 100&Omega;                | 5.19                |
-| 2    | 200&Omega;                | 5.20                |
-| 3    | 300&Omega;                | 5.20                |
-| 4    | 400&Omega;                | 5.20                |
-| 5    | 500&Omega;                | 5.20                |
-| 6    | 600&Omega;                | 5.21                |
+| 1    | 100                | 5.19                |
+| 2    | 200                | 5.20                |
+| 3    | 300                | 5.20                |
+| 4    | 400                | 5.20                |
+| 5    | 500                | 5.20                |
+| 6    | 600                | 5.21                |
 
 REGULATION CHARACTERISTICS:
 
